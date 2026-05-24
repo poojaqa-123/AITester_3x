@@ -1,0 +1,23 @@
+# Test Framework - Entire Folder and All Contents
+Tasks/DNP_03_ProjectAPI_Framework/
+
+# Prompt Engineering - Staging Files
+02_Prompt_Enginnering/stage_test_creation_ricepot.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
