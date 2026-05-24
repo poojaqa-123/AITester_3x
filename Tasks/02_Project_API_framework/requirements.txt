@@ -1,0 +1,23 @@
+# REST API Framework Dependencies
+
+# HTTP Client Library
+requests==2.31.0
+
+# Testing Framework
+pytest==7.4.0
+pytest-cov==4.1.0
+pytest-xdist==3.3.1
+pytest-timeout==2.1.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Logging and Utilities
+colorlog==6.7.0
+
+# Optional: For better reporting
+pytest-html==3.2.0
+pytest-json-report==1.5.0
+
+# Optional: For API mocking (if needed)
+responses==0.23.1
